@@ -1,32 +1,22 @@
 [
  {
-  "from": "Coming soon",
-  "url" : "https://www.facebook.com/hhbajaj",
-  "title": "Coming soon",
-  "description": "This is a sample offer with text and url only",
-  "starts": "9/21/2016",
-  "ends": "10/21/2016",
+  "from": "Shoemandu",
+  "url" : "http://shoemandu.com",
+  "title": "Shoemandu Shoes Offer",
+  "description": "Dashain Sale Is On Flat% OFF\nAvailable On All Shoes\nVisit Our Store To Grab This Mega Dashain Sale Offer\n#Nike #Addidas\nGrab Ur Leather Design Shoes\n👉Comfort and Durable\n👉Men Casual Shoes\nMarked Price : 3375 (40% off)\nStore Price : 2025\nContact Us : 9845118514/9861224366\nStore Location : New Road Complex ,1st Floor. New Road\n----------------------------------------------\nAsk For Delivery\nVisit Store\nPayment Via Paypal N Bank Available\n----------------------------------------------\n",
+  "starts": "9/18",
+  "ends": "-",
   "image": "",
-  "type": "Coming"
- },
- {
-  "from": "Coming soon",
-  "url" : "https://www.facebook.com/hhbajaj",
-  "title": "Coming soon",
-  "description": "This is a sample offer with text and url only [2]",
-  "starts": "9/21/2016",
-  "ends": "10/21/2016",
+  "type": "Shoes"
+},
+{
+  "from": "Mandala Book Shop",
+  "url" : "https://www.facebook.com/mandalabookshop",
+  "title": "Dashain Buy Offer",
+  "description": "Get 10% off in any book you buy at Nepal Mandal Book Shop, Pokhara Nepal.\nCall: 061-463203",
+  "starts": "9/18",
+  "ends": "-",
   "image": "",
-  "type": "Coming"
- },
- {
-  "from": "Coming soon",
-  "url" : "https://www.facebook.com/hhbajaj",
-  "title": "Coming soon",
-  "description": "This is a sample offer with text, url and image",
-  "starts": "9/21/2016",
-  "ends": "10/21/2016",
-  "image": "http://withhari.github.io/img/coming.png",
-  "type": "Soon"
- }
+  "type": "Nepal Mandala Book Shop"
+}
 ]
