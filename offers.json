@@ -18,5 +18,15 @@
   "ends": "-",
   "image": "",
   "type": "Books"
+},
+{
+  "from": "HH Bajaj",
+  "url" : "http://bajajauto.com.np",
+  "title": "Baja CASH WISH",
+  "description": " ",
+  "starts": "9/18",
+  "ends": "-",
+  "image": "http://withhari.github.io/img/bajajbike.jpg",
+  "type": "Bike"
 }
 ]
