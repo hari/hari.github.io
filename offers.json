@@ -8,8 +8,8 @@
     "ends": "n/a",
     "image": "http://withhari.github.io/img/bergerpaints.jpg",
     "type": "Paint/Color"
-  },
-  {
+},
+{
     "from": "Shoemandu",
     "url" : "http://shoemandu.com",
     "title": "Shoemandu Shoes Offer",
@@ -18,8 +18,8 @@
     "ends": "n/a",
     "image": "",
     "type": "Shoes"
-  },
-  {
+},
+{
     "from": "Nepal Mandala Book Shop",
     "url" : "https://www.facebook.com/mandalabookshop",
     "title": "Dashain Buy Offer",
@@ -28,8 +28,8 @@
     "ends": "n/a",
     "image": "",
     "type": "Books"
-  },
-  {
+},
+{
     "from": "HH Bajaj",
     "url" : "http://bajajauto.com.np",
     "title": "Bajaj CASH WISH",
@@ -38,8 +38,8 @@
     "ends": "-",
     "image": "http://withhari.github.io/img/bajajbike.jpg",
     "type": "Bikes"
-  },
-  {
+},
+{
     "from": "Hotel Country Villa, Nagarkot",
     "url" : "https://www.facebook.com/hotelcountryvilla",
     "title": "Special Dashain Offer, 2073",
@@ -48,8 +48,8 @@
     "ends": "10/15",
     "image": "http://withhari.github.io/img/hotelcountryvilla.jpg",
     "type": "Hotel/Lodge"
-  },
-  {
+},
+{
     "from": "Samsung Nepal",
     "url" : "https://www.facebook.com/samsungnepalofficial/",
     "title": "Samsung Dashain Offer",
@@ -58,8 +58,8 @@
     "ends": "n/a",
     "image": "http://withhari.github.io/img/samsungofficialnepal.png",
     "type": "Home Appliances"
-  },
-  {
+},
+{
     "from": "LGNepal",
     "url" : "http://cgdigital.com.np/mad-monsoon-c-130.html?zenid=dohe6lrie1ubqr07kldii4g341",
     "title": "Manau Utsav SangaSangai",
@@ -68,8 +68,8 @@
     "ends": "n/a",
     "image": "http://withhari.github.io/img/lgnepal.jpg",
     "type": "Home Appliances"
-  },
-  {
+},
+{
     "from": "Gionee Nepal",
     "url" : "https://www.facebook.com/gioneenepal/",
     "title": "Gionee उत्सव Offer",
@@ -78,8 +78,8 @@
     "ends": "10/31",
     "image": "http://withhari.github.io/img/gioonepal.png",
     "type": "Mobile Phone"
-  },
-  {
+},
+{
     "from": "Tata Motors Nepal",
     "url" : "https://www.facebook.com/tatamotorsnepal/",
     "title": "यसपाली को चाड ...टाटाको कार",
@@ -88,8 +88,8 @@
     "ends": "n/a",
     "image": "http://withhari.github.io/img/tatamotorsnepal.jpg",
     "type": "Car"
-  },
-  {
+},
+{
     "from": "Ford Nepal",
     "url" : "https://www.facebook.com/fordnepal/",
     "title": "Ford Dashain Offer",
@@ -98,8 +98,8 @@
     "ends": "n/a",
     "image": "http://withhari.github.io/img/fordnepal.png",
     "type": "Car"
-  },
-  {
+},
+{
     "from": "Sensei Japanese Language Institute",
     "url" : "http://SenseiJLI.com",
     "title": "15℅ discount on all courses",
@@ -108,5 +108,55 @@
     "ends": "10/13",
     "image": "",
     "type": "Language"
-  }
+},
+{
+    "from": "Nepal Telecom [NTC]",
+    "url" : "http://ntc.net.np",
+    "title": "नाइट डाटा अफर",
+    "description": "जीएसएम तथा सीडीएमए दुवैमा नाइट डाटा अफर पनि उपलब्ध गराइने छ । सो अनुसार राती १० बजे देखि बिहान ६ बजेसम्म रु. ४०।– मा ५०० एमबी र रु. ८५।– मा १२०० एमबी डाटा प्रयोग गर्न सकिने छ । यी डाटा भोल्युमको अवधि क्रमशः ७ दिन र १५ दिन हुनेछ । नाइट डाटा अफर आगामी असोज १५ देखि ३ महिना सम्म उपलब्ध गराइने छ । \n\nHow to activate Special night Data Packs?\nTo subscribe the night data pack, one have to  send a sms with text \"Special500MB\" for 500 MB data and \"Special1200MB\" for 1200 MB data to 1415.",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "",
+    "type": "Telecom"
+},
+{
+    "from": "Nepal Telecom [NTC]",
+    "url" : "http://ntc.net.np",
+    "title": "डाटा अफर",
+    "description": "जीएसएम तथा सीडीएमएका प्रिपेड तथा पोष्टपेडका ग्राहकहरुलाई दशैं, तिहार तथा छठको उपलक्ष्यमा डाटा अफर प्रदान गरी त्यसमा निःशुल्क भ्वाइस तथा एसएमएस समेत उपलब्ध गराउने व्यवस्था गरिएको छ ।\nसो अनुसार आगामी असोज १५ देखि २९ गतेसम्म र कात्तिक १२ देखि २१ गतेसम्म १०० एमबीको डाटा रु. ५०।– मा र २५० एमबीको डाटा रु. १००।– मा उपलब्ध गराइने छ । १०० एमबी डाटाको अवधि ५ दिन सम्म र २५० एमबी डाटाको अवधि १० दिनसम्म रहने छ । सो अवधिमा डाटा प्रयोगकर्ताले क्रमशः १० मिनेट भ्वाइस कल गर्न तथा १० वटा एसएमएस पठाउन र २५ मिनेट भ्वाइस कल गर्न तथा २५ वटा एसएमएस पठाउन पनि सक्ने छन् । \n\nHow to activate Special Data Packs?\nTo subscribe the data pack, one have to  send a sms with text \"Special100MB\"  for 100 MB data and \"Special250MB\" for 250 MB data to 1415.",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "",
+    "type": "Telecom"
+},
+{
+    "from": "Nepal Telecom [NTC]",
+    "url" : "https://www.facebook.com/NepalTelecom.NT",
+    "title": "भ्वाइस कलमा छुट",
+    "description": "जीएसएम तथा सीडीएमए मोबाइल सेवा मार्फत कम्पनीकै नेटवर्क भित्र हुने कलमा विद्यमान महसुल दरमा १० प्रतिशत छुट उपलब्ध गराइएको छ । सो अनुसार प्रिपेड मोबाइलबाट प्रति मिनेट रु. १।३५ र पोष्टपेड मोबाइलबाट प्रति मिनेट ९० पैसामा कल गर्न सकिने छ । उक्त छुट आगामी असोज २२ देखि असोज २९ गते सम्म र कात्तिक १४ देखि २१ गतेसम्म उपलब्ध गराइने छ ।",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "",
+    "type": "Telecom"
+},
+{
+    "from": "Nepal Telecom [NTC]",
+    "url" : "http://ntc.net.np",
+    "title": "एसएमएस अफर",
+    "description": "हाल जीएसएम तथा सीडीएमए मोबाइल सेवामा प्रति एसएमएस शुल्क रु. १।– भएकोमा आगामी असोज २२ देखि २९ गतेसम्म र कात्तिक १४ देखि २१ गतेसम्म प्रत्येक एसएमएसमा ५० प्रतिशत छुट उपलब्ध गराइने छ । ",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "",
+    "type": "Telecom"
+},
+{
+    "from": "Nepal Telecom [NTC]",
+    "url" : "http://ntc.net.np",
+    "title": "स्थानीय टेलिफोनमा थप १०० कल निःशुल्क",
+    "description": "कम्पनीबाट वितरण गरिएको स्थानीय टेलिफोन सेवा (PSTN/CDMA C-Phone ) मा रु. २००।– मा १७५ कल निःशुल्क उपलब्ध गराई आएकोमा २०७३ असोज र कात्तिक महिनाको मासिक महसुल रु. २००।– मा थप १०० लोकल कल उपलब्त्र गराइने छ । सो अनुसार अब असोज र कात्तिक महिनामा १७५ मा १०० कल थप गरी २७५ लोकल गर्न सकिने छ । ",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "",
+    "type": "Telecom"
+}
 ]
