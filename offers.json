@@ -1,53 +1,82 @@
 [
   {
-    "from": "Bajaj",
-    "url" : "http://www.bajajauto.com.np/english/shop/offers",
-    "title": "Bajaj Cash Wish",
-    "description": "On the purchase of any Bajaj bike get a MAGIC CODE on a scratch coupon , SMS the code to 34001 and fulfill your desire of winning CASH WISH up to Rs. 1 lakh. For Detail Information, Please Contact : 01-4230001/4268088",
+    "from": "Berger Paints Nepal",
+    "url" : "https://www.facebook.com/BergerPaintsNepal/",
+    "title": "Berger Nagadpati(BNP)",
+    "description": "Berger Paints Nepal present Berger Nagadpati(BNP)",
     "starts": "n/a",
     "ends": "n/a",
     "image": "http://withhari.github.io/img/bergerpaints.jpg",
-    "type": "Bikes"
+    "type": "Paint/Color"
 },
 {
-    "from": "Hyundai Nepal",
-    "url" : "https://www.facebook.com/hyundainepal/?fref=ts",
-    "title": "YUNDAI FESTIVE DELIGHT",
-    "description": "Laxmi Intercontinental Pvt. Ltd, the sole authorized distributor of Hyundai vehicles in Nepal, has introduced the ‘Hyundai Festive Delight’ for the upcoming festive season. Under this offer, the company is providing cash discounts upto Rs 6 lakhs on the purchase of Hyundai vehicles, free insurance for one year, a tola of gold for the first 100 buyers, and a chance to win a brand new Hyundai Creta and Elite i20 for two lucky buyers.",
+    "from": "Bajaj Nepal",
+    "url" : "https://www.facebook.com/hhbajaj/",
+    "title": "Bajaj Motercycle Dashain Tihar Offer",
+    "description": "यो दशैं तिहारमा बजाज बाईकको खरिदमा पाउनुहोस एउटा स्क्रयाच कुपन जसमा तपाईले स्क्रयाच गरी जित्न सक्नुहुनेछ रु. ६ लाख सम्म INSTANT CASH । Bajaj चढ्नेको बेग्लै शान । /n #PulsarNepal #BajajNepal /n More: www.bajajauto.com.np",
     "starts": "n/a",
     "ends": "n/a",
-    "image": "",
-    "type": "Car"
+    "image": "http://withhari.github.io/img/bajaj-offer.jpg",
+    "type": "Bikes"
 },
 {
     "from": "Event Solution ",
     "url" : "http://www.nepalontheweb.com/Articles/view/674",
-    "title": "Stock clearance 2074 fair",
-    "description": "The stock clearance 2074 fair is going to be held at Bhakkukimandrap, Kathmandu on the occasion of Dashain festival from 6 to 11 September 2017 (21 to 26 Bhadra 2074). Event Solution is going organize this fair. Textiles, shoes, handsets, furts, mobile, cosmetics, electronics, food products and Home appliances will be available. The organizer has estimated that more than 50 thousand consumer will vist the fair.",
+    "title": "The stock clearance 2074",
+    "description": "The stock clearance 2074 fair is going to be held at Bhakkukimandrap, Kathmandu on the occosation of Dashin festival from 6 to 11 September 2017 (21 to 26 Bhadra 2074). Event Solution is going organize this fair. Textiles, shoes, handsets, furts, mobile, cosmetics, electronics, food products and Home appliances will be available. The organizer has estimated that more than 50 thousand consumer will vist the fair.",
     "starts": "21 Bhadra",
     "ends": "26 Bhadra",
-    "image": "",
+    "image": "http://withhari.github.io/img/stock-clearance-offer.jpg",
     "type": "Home Appliances"
 },
 {
-    "from": "Samsung Mobile Nepal",
-    "url" : "https://www.deltadigit.com/samsung-mobile-nepal-2074-new-year-offer/",
-    "title": "Nawa Barsa 2074, Sa-Car",
-    "description": "The bumper prize is a brand new Ford Aspire. Eventually only one lucky winner is going to win this beautiful car. This program is valid till April 13th 2017 or Chaitra 31st 2073. Main condition to participate in this scheme is to buy a new Samsung 4G smartphone. There are lots of 4G compatible smartphones in the market these days.",
+    "from": "VG Suzuki Nepal",
+    "url" : "https://www.facebook.com/VGSUZUKI/",
+    "title": "Chakkama Chakka Nagad Pakka",
+    "description": "This festive season buy any SUZUKI motorcycle and scooter and get a chance to win sure shot cash prize of Rs.7000 in motorcycle and Rs.9000 in scooter. Also, you can get a chance to win up to Rs.1 lakh in scratch card and Renault KWID in Bumper prize.",
     "starts": "n/a",
     "ends": "n/a",
-    "image": "http://withhari.github.io/img/bajajbike.jpg",
+    "image": "http://withhari.github.io/img/",
+    "type": "Bikes"
+},
+{
+    "from": "Huawei Nepal",
+    "url" : "https://www.facebook.com/HuaweimobileNP/",
+    "title": "उपहार यस्तो हरेक घण्टा रमाऊ जस्तो",
+    "description": "The scheme “उपहार यस्तो हरेक घण्टा रमाऊ जस्तो” will run for 25 days from 1st of September to 25th of September. This scheme will no an emphasis on a single winner but there will be as much as 400 winners to keep the festive mood intact. And the winner will be selected every hour from the official Facebook page of Huawei .",
+    "starts": "1st September",
+    "ends": "25 September",
+    "image": "http://withhari.github.io/img/Huawei-Dashain-offer.jpg",
     "type": "Mobile Phone"
 },
-  {
-    "from": "Jagdamba Motors-TVS",
-    "url" : "https://www.facebook.com/jmtvs/?fref=ts",
-    "title": "TVS Tatyo Bazaar Instant 10000",
-    "description": "Jagdamba Motors-TVS, the sole authorized distributor of TVS vehicles in Nepal, has launched the ‘TVS Tatyo Bazaar Instant 10000’ offer under which the company is providing sure-shot cash discount of Rs 7000 on the purchase of RTR 160/180 motorcycles and Rs 10000 sure-shot cash discount of Rs 10000 on the purchase of other motorcycles and scooters.",
+{
+    "from": "Mi Nepal",
+    "url" : "https://www.facebook.com/XiaomiNepal/",
+    "title": "Dashain Offer",
+    "description": "The offer brings you various gift hampers. The list includes Bangkok Tour, Dubai Tour, Pulsar motorcycle, Silver or Gold Coins. It also gives you a chance to win extra Mi products. Mi Laptop, Mi Phones, Mi Scooter or Mi Television.If you are feeling lucky, taking part is very simple. You have to buy any Mi phones or smartphones from official retail stores in Nepal. The offer is valid until Tihar, so hurry up!",
+    "starts": "n/a",
+    "ends": "Valid until Tihar",
+    "image": "http://withhari.github.io/img/Mi-Mobile-offer.png",
+    "type": "Mobile Phone"
+},
+{
+    "from": "Volkswagen",
+    "url" : "https://nepalpromos.com/automotive/volkswagen-dashain-tihar-double-offer-upto-8-lakhs-cash-discount-2-lakhs-exchange-offer",
+    "title": "Volkswagen Dashain Tihar Double Offer!!",
+    "description": "This festive season, take life to next level. Experience Volkswagen, get upto 8 Lakhs cash disount and assured 2 Lakhs Exchange bonus in your old car.",
     "starts": "n/a",
     "ends": "n/a",
-    "image": "http://withhari.github.io/img/bajajbike.jpg",
-    "type": "Mobile Phone"
+    "image": "http://withhari.github.io/img/Volkswagen-offer.jpg",
+    "type": "Car"
 },
-  
+{
+    "from": "CG groups",
+    "url" : "http://cgdigital.com.np/cg-dashain-offer-c-132.html",
+    "title": "CG festive offers",
+    "description": "यस दशैं तिहार तथा छठमा CG को शानदार सामानहरुको खरिदमा पक्का उपहार तथा आकर्षक नगद छुट पाउनुहोस |",
+    "starts": "n/a",
+    "ends": "n/a",
+    "image": "http://withhari.github.io/img/cg-offers.jpg",
+    "type": "Home Appliances"
+}
 ]
