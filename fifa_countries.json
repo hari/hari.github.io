@@ -1,0 +1,145 @@
+[{
+  "country": "Canada",
+  "alternate_name": null,
+  "fifa_code": "CAN",
+  "group_id": 1,
+  "flag": "https://restcountries.eu/data/can.svg"
+}, {
+  "country": "United States",
+  "alternate_name": null,
+  "fifa_code": "USA",
+  "group_id": 4,
+  "flag": "https://restcountries.eu/data/usa.svg"
+}, {
+  "country": "Mexico",
+  "alternate_name": null,
+  "fifa_code": "MEX",
+  "group_id": 6,
+  "flag": "https://restcountries.eu/data/mex.svg"
+}, {
+  "country": "Costa Rica",
+  "alternate_name": null,
+  "fifa_code": "CRC",
+  "group_id": 5,
+  "flag": "https://restcountries.eu/data/cri.svg"
+}, {
+  "country": "Colombia",
+  "alternate_name": null,
+  "fifa_code": "COL",
+  "group_id": 6,
+  "flag": "https://restcountries.eu/data/col.svg"
+}, {
+  "country": "Ecuador",
+  "alternate_name": null,
+  "fifa_code": "ECU",
+  "group_id": 3,
+  "flag": "https://restcountries.eu/data/ecu.svg"
+}, {
+  "country": "Brazil",
+  "alternate_name": null,
+  "fifa_code": "BRA",
+  "group_id": 5,
+  "flag": "https://restcountries.eu/data/bra.svg"
+}, {
+  "country": "England",
+  "alternate_name": null,
+  "fifa_code": "ENG",
+  "group_id": 6,
+  "flag": "https://restcountries.eu/data/gbr.svg"
+}, {
+  "country": "France",
+  "alternate_name": null,
+  "fifa_code": "FRA",
+  "group_id": 6,
+  "flag": "https://restcountries.eu/data/fra.svg"
+}, {
+  "country": "Spain",
+  "alternate_name": null,
+  "fifa_code": "ESP",
+  "group_id": 5,
+  "flag": "https://restcountries.eu/data/esp.svg"
+}, {
+  "country": "Norway",
+  "alternate_name": null,
+  "fifa_code": "NOR",
+  "group_id": 2,
+  "flag": "https://restcountries.eu/data/nor.svg"
+}, {
+  "country": "Sweden",
+  "alternate_name": null,
+  "fifa_code": "SWE",
+  "group_id": 4,
+  "flag": "https://restcountries.eu/data/swe.svg"
+}, {
+  "country": "Netherlands",
+  "alternate_name": null,
+  "fifa_code": "NED",
+  "group_id": 1,
+  "flag": "https://restcountries.eu/data/nld.svg"
+}, {
+  "country": "Cameroon",
+  "alternate_name": null,
+  "fifa_code": "CMR",
+  "group_id": 3,
+  "flag": "https://restcountries.eu/data/cmr.svg"
+}, {
+  "country": "Ivory Coast",
+  "alternate_name": "Côte d'Ivoire",
+  "fifa_code": "CIV",
+  "group_id": 2,
+  "flag": "https://restcountries.eu/data/civ.svg"
+}, {
+  "country": "Japan",
+  "alternate_name": null,
+  "fifa_code": "JPN",
+  "group_id": 3,
+  "flag": "https://restcountries.eu/data/jpn.svg"
+}, {
+  "country": "Switzerland",
+  "alternate_name": null,
+  "fifa_code": "SUI",
+  "group_id": 3,
+  "flag": "https://restcountries.eu/data/che.svg"
+}, {
+  "country": "Nigeria",
+  "alternate_name": null,
+  "fifa_code": "NGA",
+  "group_id": 4,
+  "flag": "https://restcountries.eu/data/nga.svg"
+}, {
+  "country": "Germany",
+  "alternate_name": null,
+  "fifa_code": "GER",
+  "group_id": 2,
+  "flag": "https://restcountries.eu/data/deu.svg"
+}, {
+  "country": "Korea Republic",
+  "alternate_name": "South Korea",
+  "fifa_code": "KOR",
+  "group_id": 5,
+  "flag": "https://restcountries.eu/data/kor.svg"
+}, {
+  "country": "China",
+  "alternate_name": null,
+  "fifa_code": "CHN",
+  "group_id": 1,
+  "flag": "https://restcountries.eu/data/chn.svg"
+}, {
+  "country": "Thailand",
+  "alternate_name": null,
+  "fifa_code": "THA",
+  "group_id": 2,
+  "flag": "https://restcountries.eu/data/tha.svg"
+}, {
+  "country": "New Zealand",
+  "alternate_name": null,
+  "fifa_code": "NZL",
+  "group_id": 1,
+  "flag": "https://restcountries.eu/data/nzl.svg"
+}, {
+  "country": "Australia",
+  "alternate_name": null,
+  "fifa_code": "AUS",
+  "group_id": 4,
+  "flag": "https://restcountries.eu/data/aus.svg"
+}]
