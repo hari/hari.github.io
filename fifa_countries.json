@@ -1144,8 +1144,8 @@
                     "type": "group",
                     "home_team": 17,
                     "away_team": 18,
-                    "home_result": null,
-                    "away_result": null,
+                    "home_result": 1,
+                    "away_result": 1,
                     "date": "2018-06-17T21:00:00+03:00",
                     "stadium": 10,
                     "channels": [
@@ -1156,7 +1156,7 @@
                         20,
                         22
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 1
                 },
                 {
@@ -1287,7 +1287,7 @@
                         21,
                         22
                     ],
-                    "finished": false,
+                    "finished": true,
                     "matchday": 1
                 },
                 {
