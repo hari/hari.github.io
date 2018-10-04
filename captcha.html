@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -44,7 +44,7 @@
 
       function sendTokenToApp(token) {
         var baseUri = decodeURIComponent(location.search.replace(/^\?appurl\=/, ''));
-        window.postMessage(encodeURIComponent(token));
+        document.location = '?token=' + encodeURIComponent(token);
       }
 
       document.addEventListener('DOMContentLoaded', function () {
