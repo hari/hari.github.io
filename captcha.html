@@ -48,7 +48,9 @@
       }
 
       document.addEventListener('DOMContentLoaded', function () {
-        getToken(sendTokenToApp);
+         if (document.location.href.index('token') === -1) {
+           getToken(sendTokenToApp);
+         }
       });
 
     </script>
