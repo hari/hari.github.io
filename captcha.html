@@ -44,7 +44,7 @@
 
       function sendTokenToApp(token) {
         var baseUri = decodeURIComponent(location.search.replace(/^\?appurl\=/, ''));
-        location.href = baseUri + '/?token=' + encodeURIComponent(token);
+        window.postMessage(encodeURIComponent(token));
       }
 
       document.addEventListener('DOMContentLoaded', function () {
