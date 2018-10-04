@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Entering captcha</title>
+</head>
+
+<body>
+  <p style="text-align: center; font-size: 1.2em;">Please, enter captcha for continue
+    <p />
+    <script src="https://www.gstatic.com/firebasejs/5.5.2/firebase.js"></script>
+    <script>
+      var config = {
+        apiKey: 'AIzaSyDu4tqwMR_9-MdnzoSBlwefiVKTJ-W4ThE',
+        authDomain: 'hepert-4cf29.firebaseapp.com',
+        databaseURL: 'https://hepert-4cf29.firebaseio.com',
+        projectId: 'hepert-4cf29',
+        storageBucket: 'hepert-4cf29.appspot.com',
+        messagingSenderId: '166537213067'
+      };
+      firebase.initializeApp(config);
+    </script>
+    <script>
+
+      function getToken(callback) {
+        var container = document.createElement('div');
+        container.id = 'captcha';
+        document.body.appendChild(container);
+        var captcha = new firebase.auth.RecaptchaVerifier('captcha', {
+          'size': 'normal',
+          'callback': function (token) {
+            callback(token);
+          },
+          'expired-callback': function () {
+            callback('');
+          }
+        });
+        captcha.render().then(function () {
+          captcha.verify();
+        });
+      }
+
+      function sendTokenToApp(token) {
+        var baseUri = decodeURIComponent(location.search.replace(/^\?appurl\=/, ''));
+        location.href = baseUri + '/?token=' + encodeURIComponent(token);
+      }
+
+      document.addEventListener('DOMContentLoaded', function () {
+        getToken(sendTokenToApp);
+      });
+
+    </script>
+</body>
+
+</html>
